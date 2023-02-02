@@ -1,0 +1,12 @@
+# Site settings
+title: Pri's Blog Again
+
+
+author: 
+  name: Priyanka B
+  email: priyanka.borpujari2@mail.dcu.ie
+description: "Pri's Blog"
+
+# Build settings
+remote_theme: jekyll/minima
+
